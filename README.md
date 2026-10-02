@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Rijwana Rahman] 👋
 
 **Cybersecurity student at Rowan University** with hands-on experience in vulnerability management, log analysis, and phishing triage. I turn technical findings into clear, prioritized action, and map them to NIST CSF, ISO 27001, and PCI DSS.
 
